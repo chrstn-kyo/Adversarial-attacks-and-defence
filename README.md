@@ -1,5 +1,3 @@
-This is a basic code repository for Assignment 3.
-
 The repository contains a basic model and a basic training and testing
 procedure. It will work on the testing-platform (but it will not
 perform well against adversarial examples). The goal of the project is
